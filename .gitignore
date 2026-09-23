@@ -1,0 +1,16 @@
+# OS junk
+.DS_Store
+__MACOSX/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Excel lock files
+~$*.xlsx
+~$*.xls
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
